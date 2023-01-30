@@ -3,13 +3,13 @@ package demo;
 public class Practice {
 
 	public static void main(String[] args) {
-		int n=123;
-		int a;
+		int p=123;
+		int q;
 		
-		while(n>0) {
-			a=n%10;
-			n=n/10;
-			System.out.print(a);
+		while(p>0) {
+		q=p%10;
+			p=p/10;
+			System.out.print(q);
 			
 		}
 	
